@@ -8,16 +8,14 @@ I am deeply engaged in building — platforms that democratize access at scale. 
 
 ## Previous Projects
 
-- **Allocations** — Leading AI-driven fund administration and SPV platform, enabling faster launches and efficient management of private funds.
-- **Allo** — Pioneering tokenized real-world assets and stocks exchange, facilitating fractional ownership and 24/7 global trading.
-- **Openstocks** — Initiative focused on open, accessible tokenized equities and stock infrastructure.
-- **OpenDoctor** — Platform advancing tokenized or AI-enhanced healthcare and longevity-related investments.
-- **Oil.fun** — Exploring tokenized commodity assets, with emphasis on energy and oil-related real-world assets.
-- **Keypla** — Development in key infrastructure or planning tools for alternative investments.
-- **Zilliqa** — Early involvement and ongoing interest in high-performance blockchain ecosystems.
-- **Thunder** — Contributions to scalable blockchain protocols (historical focus on Thunder Token).
-- **Oasis** — Early investment and advocacy for privacy-focused blockchain infrastructure.
-- **SelfieTV** — Media and content tokenization or decentralized streaming initiatives.
+- **Allocations** — $2bn+ in assets AI driven fund administration and SPV platform, enabling faster launches and efficient management of private funds.
+- **Allo** — Decentralized protocol for tokenizing real-world assets, facilitating fractional ownership and 24/7 global trading.
+- **Openstocks** — Stablecoin for private markets
+- **OpenDoctor** — AI Doctor
+- **Oil.fun** — Tokenized commodity assets, with emphasis on energy and oil-related real-world assets.
+- **Zilliqa** — Early involvement in $1bn+ high-performance blockchain ecosystems.
+- **Oasis** — Early investment and advisory for privacy-focused blockchain infrastructure.
+- **SelfieTV** — One of the winners at Techcrunch disrupt 2015
 
 ## Investments
 
