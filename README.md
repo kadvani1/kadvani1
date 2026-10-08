@@ -9,8 +9,6 @@ I am deeply engaged in building — platforms that democratize access at scale. 
 ## Previous Projects
 
 - **Allocations** — $2bn+ in assets AI driven fund administration and SPV platform, enabling faster launches and efficient management of private funds.
-- **Allo** — Decentralized protocol for tokenizing real-world assets, facilitating fractional ownership and 24/7 global trading.
-- **Openstocks** — Stablecoin for private markets
 - **OpenDoctor** — AI Doctor
 - **Oil.fun** — Tokenized commodity assets, with emphasis on energy and oil-related real-world assets.
 - **Zilliqa** — Early involvement in $1bn+ high-performance blockchain ecosystems.
